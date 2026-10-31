@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-omer-439ab6277/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedomer13218@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?logo=googlechrome&logoColor=white)](datascienceportfol.io/ahmedomer13218)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?logo=googlechrome&logoColor=white)](https://datascienceportfol.io/ahmedomer13218)
 ---
 
 ## About me
