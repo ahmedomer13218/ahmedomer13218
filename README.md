@@ -4,7 +4,7 @@
 
 📍 Cairo, Egypt &nbsp;|&nbsp; 🎓 B.Sc. Computer Engineering, Cairo University (GPA 3.5/4.0) &nbsp;|&nbsp; 🧑‍🏫 Teaching Assistant, Cairo University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohammed-omer-439ab6277/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohammed-omar-439ab6277/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedomer13218@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?logo=googlechrome&logoColor=white)](https://datascienceportfol.io/ahmedomer13218)
 ---
@@ -114,4 +114,4 @@ I turn data into decisions. My work sits across two sides: **business intelligen
 
 ## Let's connect
 
-I'm open to roles in data analytics, BI and machine learning. Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-omer-439ab6277/) or at **ahmedomer13218@gmail.com**.
+I'm open to roles in data analytics, BI and machine learning. Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-omar-439ab6277/) or at **ahmedomer13218@gmail.com**.
